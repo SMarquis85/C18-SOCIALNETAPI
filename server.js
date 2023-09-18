@@ -11,6 +11,7 @@ app.use(routes);
 
 // Check for successful connection in connection.js
 db.once('open', () => {
+  console.log("Database connected!")
   app.listen(PORT, () => {
     console.log(`API server running on port ${PORT}!`);
   });
