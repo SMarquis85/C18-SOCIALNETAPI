@@ -71,7 +71,7 @@ License used for this project - MIT
 
 ## Walkthrough Video:
 
-https://drive.google.com/file/d/1BTpkGh5QQMgO5vXrJLTign1z316b57O-/view?usp=drive_link
+https://drive.google.com/file/d/1BTpkGh5QQMgO5vXrJLTign1z316b57O- 
 
 ## Github Repository Link:
 
